@@ -18,6 +18,21 @@ The four additional identities are not yet confirmed. The proposed allocation
 does not imply accepted assignments or completed work. Leave WS2–WS5 unassigned
 until the real members accept their responsibilities.
 
+## Fork-based collaboration
+
+Each of the four additional students forks the public repository to their own
+GitHub account and creates short-lived feature branches in that fork. No
+collaborator invitations are needed. The Project Lead distributes the assigned
+local handoff packages after identities and responsibilities are confirmed.
+
+Recipients review, understand, test and meaningfully improve their assigned code,
+commit their actual work under their own identities, push to their forks and open
+PRs targeting `PantelisZara/java-currency-converter:main`. Follow
+[Contributing](../CONTRIBUTING.md) for remote setup, synchronization and review.
+PantelisZara reviews, coordinates and merges PRs after review and CI. Record each
+member's actual implementation, improvements, tests and review contributions;
+identify supplied code separately from that work.
+
 ## Coordination and delivery
 
 WS1 agrees on contracts before WS2, WS3 and WS4 implementation proceeds. These
